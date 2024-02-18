@@ -7,7 +7,7 @@ I thrive in the Linux and open-source vibes. Ideas? 💡 They burst out easily. 
 contact me via email[📫](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
 
 Some technologies I use in my stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,expressjs,mysql,mariadb,sequelize,vscode,webpack,regex,git,scss,knex,storybook&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,expressjs,mysql&perline=6)](https://skillicons.dev)
 <!--
 **arya56/arya56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Cheers 👋
+### Cheers 🥳
 
 Passionate about exploring the latest in web tech and coding enthusiast. As a detail-oriented software engineer and web dev enthusiast, I dived into Full-stack at HYF bootcamp. Proud collaborator in advanced development, I contribute to tech wonders. Love exploring intricate tech stacks. My code? Always clean, efficient, and easy on the eyes. Let's chat tech!
 

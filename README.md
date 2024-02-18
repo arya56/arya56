@@ -4,7 +4,7 @@ Passionate about exploring the latest in web tech and coding enthusiast. As a de
 
 I thrive in the Linux and open-source vibes. Ideas? 💡 They burst out easily. Currently crafting brilliance at [Butterflies](https://www.butterflies.dk/online-community/), leading high-level development with a great level of collaboration and teamwork. Playing with CI/CD implementation and embracing Agile methodologies.
 
-Contact me via email[📫](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
+Contact me via email [📫](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
 
 Some technologies I use in my stack:
 

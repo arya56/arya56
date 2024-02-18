@@ -1,10 +1,10 @@
-### Hi there 👋
+### Cheers 👋
 
 Passionate about exploring the latest in web tech and coding enthusiast. As a detail-oriented software engineer and web dev enthusiast, I dived into Full-stack at HYF bootcamp. Proud collaborator in advanced development, I contribute to tech wonders. Love exploring intricate tech stacks. My code? Always clean, efficient, and easy on the eyes. Let's chat tech!
 
 I thrive in the Linux and open-source vibes. Ideas? 💡 They burst out easily. Currently crafting brilliance at [Butterflies](https://www.butterflies.dk/online-community/), leading high-level development with a great level of collaboration and teamwork. Playing with CI/CD implementation and embracing Agile methodologies.
 
-Contact me via email [📫](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
+## Contact me via email [📫](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
 
 Some technologies I use in my stack:
 

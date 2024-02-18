@@ -8,7 +8,7 @@ Contact me via email[📫](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
 
 Some technologies I use in my stack:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,javascript,typescript,react,nodejs,expressjs,redux,figma,postman,mysql,sequelize,vscode,webpack,regex,github,heroku,discord&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,javascript,typescript,react,nodejs,expressjs,redux,figma,postman,mysql,sequelize,vscode,webpack,regex,github,firebase,heroku,discord&perline=5)](https://skillicons.dev)
 <!--
 **arya56/arya56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
